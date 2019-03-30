@@ -1,0 +1,1 @@
+This is a project on Amazon product review analysis. Various NLP and ML techniques have been used to classify the review ratings as high rating or low rating. The data was downloaded from kaggle (https://www.kaggle.com/mojiman/bigdatafinal007/version/1#Beauty_5.json)
